@@ -12,7 +12,7 @@ I'm a passionate software developer with a love for coding and problem-solving. 
 
 ## Skills
 - **Languages**: Python, Java/Type Script, C++ 
-- **Frameworks**: React, Node.js, Flask, Angukar
+- **Frameworks**: React, Node.js, Flask, Angular
 - **Tools**: Git, Docker
 - **Databases**: MySQL, MongoDB
 
