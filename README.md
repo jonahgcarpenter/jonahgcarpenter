@@ -1,5 +1,8 @@
 # Hi there, I'm Jonah Carpenter! 👋
 
+## Let's Connect
+- [LinkedIn](https://www.linkedin.com/in/jonah-carpenter-aa2644264/)
+
 ## About Me
 I'm a passionate software developer with a love for coding and problem-solving. I enjoy working on innovative projects and learning new technologies.
 
@@ -16,12 +19,9 @@ I'm a passionate software developer with a love for coding and problem-solving. 
 ## Projects
 Here are a few projects I've worked on:
 
-- [Project 1](https://github.com/jonahgcarpenter/aishoppinglist): A web application that uses AI to generate your shopping list based on your shopping habbits/desires
-- [Project 2](https://github.com/jonahgcarpenter/Turing-Tickets): A IT-Ticket system I desined as my Senior Project
-- [Project 3](https://github.com/jonahgcarpenter/aprilslilpugs): Another web application made for my mom's dog buisness
+- [AI-Shopping List](https://github.com/jonahgcarpenter/aishoppinglist): A web application that uses AI to generate your shopping list based on your shopping habbits/desires
+- [Turing Tickets](https://github.com/jonahgcarpenter/Turing-Tickets): A IT-Ticket system I desined as my Senior Project
+- [April's Lil Pugs](https://github.com/jonahgcarpenter/aprilslilpugs): Another web application made for my mom's dog buisness
 
 ## GitHub Stats
 ![Jonah's GitHub stats](https://github-readme-stats.vercel.app/api?username=jonahgcarpenter&show_icons=true&theme=radical)
-
-## Let's Connect
-- [LinkedIn](https://www.linkedin.com/in/jonah-carpenter-aa2644264/)
