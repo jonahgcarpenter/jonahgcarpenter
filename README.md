@@ -4,7 +4,7 @@
 ![Jonah's GitHub stats](https://github-readme-stats.vercel.app/api?username=jonahgcarpenter&show_icons=true&theme=radical)
 
 ## Let's Connect
-- [LinkedIn](https://www.linkedin.com/in/jonah-carpenter-aa2644264/)
+- [Portfolio](https://portfolio.jonahsserver.com/)
 
 ## About Me
 I'm a passionate software developer with a love for coding and problem-solving. I enjoy working on innovative projects and learning new technologies.
