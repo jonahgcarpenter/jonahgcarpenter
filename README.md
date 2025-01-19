@@ -9,8 +9,7 @@
 ## About Me
 I'm a passionate software developer with a love for coding and problem-solving. I enjoy working on innovative projects and learning new technologies.
 
-- 🌱 I’m currently learning about Docker, and NeoVim.
-- 📫 How to reach me: [jonahgcarpenter@gmail.com](mailto:jonahgcarpenter@gmail.com)
+- 🌱 I’m currently learning about Docker, and getting used to NeoVim.
 
 ## Projects
 Here are a few projects I've worked on:
