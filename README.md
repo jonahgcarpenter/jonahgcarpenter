@@ -9,15 +9,10 @@ I'm a passionate software developer with a love for coding and problem-solving. 
 - 🌱 I’m currently learning about Docker, and NeoVim.
 - 📫 How to reach me: [jonahgcarpenter@gmail.com](mailto:jonahgcarpenter@gmail.com)
 
-## Skills
-- **Languages**: Python, Java/Type Script, C++ 
-- **Frameworks**: React, Node.js, Flask, Angular
-- **Tools**: Git, Docker
-- **Databases**: MySQL, MongoDB
-
 ## Projects
 Here are a few projects I've worked on:
 
+- [AI-Shopping-List](https://github.com/jonahgcarpenter/ai-shopping-list): A web app using AI to generate a shopping list for me.
 - [Turing Tickets](https://github.com/jonahgcarpenter/Turing-Tickets): A IT-Ticket system I desined as my Senior Project
 - [April's Lil Pugs](https://github.com/jonahgcarpenter/aprilslilpugs): Another web application made for my mom's dog buisness
 
