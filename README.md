@@ -3,7 +3,7 @@
 ## GitHub Stats
 ![Jonah's GitHub stats](https://github-readme-stats.vercel.app/api?username=jonahgcarpenter&show_icons=true&theme=radical)
 
-## Let's Connect
+## Check out my Porfilio for more information
 - [Portfolio](https://portfolio.jonahsserver.com/)
 
 ## About Me
@@ -15,5 +15,6 @@ I'm a passionate software developer with a love for coding and problem-solving. 
 Here are a few projects I've worked on:
 
 - [AI-Shopping-List](https://github.com/jonahgcarpenter/ai-shopping-list): A web app using AI to generate a shopping list for me.
-- [Turing Tickets](https://github.com/jonahgcarpenter/Turing-Tickets): A IT-Ticket system I desined as my Senior Project
-- [April's Lil Pugs](https://github.com/jonahgcarpenter/aprilslilpugs): Another web application made for my mom's dog buisness
+- [Enhance-Your-Living-With-Technology](https://github.com/jonahgcarpenter/Enhance-Your-Living-With-Technology): Project for my Web Dev class that explains how to create and use a smarthome to help in daily life
+- [Turing Tickets](https://github.com/jonahgcarpenter/Turing-Tickets): An IT-Ticket system I desined as my Senior Project with email notifications for users
+- [April's Lil Pugs](https://github.com/jonahgcarpenter/aprilslilpugs): The Full Stack application I wrote for my mom's pug breeding buisness
