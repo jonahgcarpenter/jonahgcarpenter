@@ -14,7 +14,6 @@ I'm a passionate software developer with a love for coding and problem-solving. 
 ## Projects
 Here are a few projects I've worked on:
 
-- [AI-Shopping-List](https://github.com/jonahgcarpenter/ai-shopping-list): A web app using AI to generate a shopping list for me.
 - [Enhance-Your-Living-With-Technology](https://github.com/jonahgcarpenter/Enhance-Your-Living-With-Technology): Project for my Web Dev class that explains how to create and use a smarthome to help in daily life
 - [Turing Tickets](https://github.com/jonahgcarpenter/Turing-Tickets): An IT-Ticket system I desined as my Senior Project with email notifications for users
 - [April's Lil Pugs](https://github.com/jonahgcarpenter/aprilslilpugs): The Full Stack application I wrote for my mom's pug breeding buisness
