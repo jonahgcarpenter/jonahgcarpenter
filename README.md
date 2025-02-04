@@ -1,10 +1,4 @@
-# Hey, I'm Jonah Carpenter! 👋
-
-## GitHub Stats
-![Jonah's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=jonahgcarpenter&layout=compact&theme=radical&hide=HTML,CSS)
-
-## Explore My Work
-- [My Portfolio](https://portfolio.jonahsserver.com/)
+# Howdie, I'm Jonah Carpenter! 👋  [Check out my Portfolio](https://portfolio.jonahsserver.com/)
 
 ## About Me
 I'm an enthusiastic software developer with a strong passion for coding and solving complex problems. I thrive in environments where I can create innovative solutions and continuously expand my skill set. 
@@ -12,9 +6,12 @@ I'm an enthusiastic software developer with a strong passion for coding and solv
 - 🌱 Currently diving deeper into Docker and honing my skills with NeoVim.
 
 ## Featured Projects
-Here are a few projects I've had the pleasure of working on:
+These are my most notable repositories:
 
-- [Tip Tracker](https://github.com/jonahgcarpenter/tip-tracker): My current work in progress, with the intention of helping me auto input my serving tips for easy tracking
-- [April's Lil Pugs](https://github.com/jonahgcarpenter/aprilslilpugs): A full-stack application created for my mom's pug breeding business.
-- [Enhance-Your-Living-With-Technology](https://github.com/jonahgcarpenter/Enhance-Your-Living-With-Technology): A web development project where I explore how smart home technology can improve daily life.
-- [Turing Tickets](https://github.com/jonahgcarpenter/Turing-Tickets): An IT ticketing system designed for my senior project, featuring email notifications for users.
+- [My NVIM Config](https://github.com/jonahgcarpenter/nvim-config)
+- [April's Lil Pugs](https://github.com/jonahgcarpenter/aprilslilpugs): A full stack app I work on and self host for my mom's pug breeding business.
+- [Turing Tickets](https://github.com/jonahgcarpenter/Turing-Tickets): A full stack IT ticket system designed for my senior project, featuring email ticket updates for users.
+- [Enhance-Your-Living-With-Technology](https://github.com/jonahgcarpenter/Enhance-Your-Living-With-Technology): A frontend web app where I explain how smart home technology can improve daily life, and how to build your own.
+
+## GitHub Stats
+![Jonah's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=jonahgcarpenter&layout=compact&theme=radical&hide=HTML,CSS)
