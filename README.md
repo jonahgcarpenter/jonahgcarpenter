@@ -11,7 +11,7 @@ These are my most notable repositories:
 - [My NVIM Config](https://github.com/jonahgcarpenter/nvim-config)
 - [April's Lil Pugs](https://github.com/jonahgcarpenter/aprilslilpugs): A full stack app I work on and self host for my mom's pug breeding business.
 - [Turing Tickets](https://github.com/jonahgcarpenter/Turing-Tickets): A full stack IT ticket system designed for my senior project, featuring email ticket updates for users.
-- [Enhance-Your-Living-With-Technology](https://github.com/jonahgcarpenter/Enhance-Your-Living-With-Technology): A frontend web app where I explain how smart home technology can improve daily life, and how to build your own.
+- [Basic B2B Web App](https://github.com/jonahgcarpenter/takehome): A full stack application for a job interview I had the opportunity to work on. Where I learned about websockets and OAuth2
 
 ## GitHub Stats
 ![Jonah's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=jonahgcarpenter&layout=compact&theme=radical&hide=HTML,CSS)
