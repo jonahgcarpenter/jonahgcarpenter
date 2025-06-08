@@ -1,17 +1,29 @@
-# Howdie, I'm Jonah Carpenter! 👋  [Check out my Portfolio](https://portfolio.jonahsserver.com/)
+```text
+$$\   $$\                               $$\ $$\               
+$$ |  $$ |                              $$ |\__|              
+$$ |  $$ | $$$$$$\  $$\  $$\  $$\  $$$$$$$ |$$\  $$$$$$\      
+$$$$$$$$ |$$  __$$\ $$ | $$ | $$ |$$  __$$ |$$ |$$  __$$\     
+$$  __$$ |$$ /  $$ |$$ | $$ | $$ |$$ /  $$ |$$ |$$$$$$$$ |    
+$$ |  $$ |$$ |  $$ |$$ | $$ | $$ |$$ |  $$ |$$ |$$   ____|    
+$$ |  $$ |\$$$$$$  |\$$$$$\$$$$  |\$$$$$$$ |$$ |\$$$$$$$\ $$\ 
+\__|  \__| \______/  \_____\____/  \_______|\__| \_______|$  |
+                                                          \_/
+```
+```text
+$$$$$$\ $$\                       $$$$$\                               $$\       
+\_$$  _|$  |                      \__$$ |                              $$ |      
+  $$ |  \_/$$$$$$\$$$$\              $$ | $$$$$$\  $$$$$$$\   $$$$$$\  $$$$$$$\  
+  $$ |     $$  _$$  _$$\             $$ |$$  __$$\ $$  __$$\  \____$$\ $$  __$$\ 
+  $$ |     $$ / $$ / $$ |      $$\   $$ |$$ /  $$ |$$ |  $$ | $$$$$$$ |$$ |  $$ |
+  $$ |     $$ | $$ | $$ |      $$ |  $$ |$$ |  $$ |$$ |  $$ |$$  __$$ |$$ |  $$ |
+$$$$$$\    $$ | $$ | $$ |      \$$$$$$  |\$$$$$$  |$$ |  $$ |\$$$$$$$ |$$ |  $$ |
+\______|   \__| \__| \__|       \______/  \______/ \__|  \__| \_______|\__|  \__|
+```
+## Projects
 
-## About Me
-I'm an enthusiastic software developer with a strong passion for coding and solving complex problems. I thrive in environments where I can create innovative solutions and continuously expand my skill set. 
-
-- 🌱 Currently diving deeper into Docker and honing my skills with NeoVim.
-
-## Featured Projects
-These are my most notable repositories:
-
-- [My NVIM Config](https://github.com/jonahgcarpenter/nvim-config)
-- [April's Lil Pugs](https://github.com/jonahgcarpenter/aprilslilpugs): A full stack app I work on and self host for my mom's pug breeding business.
-- [Turing Tickets](https://github.com/jonahgcarpenter/Turing-Tickets): A full stack IT ticket system designed for my senior project, featuring email ticket updates for users.
-- [Basic B2B Web App](https://github.com/jonahgcarpenter/takehome): A full stack application for a job interview I had the opportunity to work on. Where I learned about websockets and OAuth2
+- [Dotfiles](https://github.com/jonahgcarpenter/dotfiles): Arch BTW
+- [Homelab] Setting up my Proxmox, K3s cluster for HA, config files soon to come
+- [April's Lil Pugs](https://github.com/jonahgcarpenter/aprilslilpugs): Mom's website
 
 ## GitHub Stats
 ![Jonah's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=jonahgcarpenter&layout=compact&theme=radical&hide=HTML,CSS)
