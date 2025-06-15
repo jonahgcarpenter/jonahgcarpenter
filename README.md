@@ -22,7 +22,7 @@ $$$$$$\    $$ | $$ | $$ |      \$$$$$$  |\$$$$$$  |$$ |  $$ |\$$$$$$$ |$$ |  $$ 
 ## Projects
 
 - [Dotfiles](https://github.com/jonahgcarpenter/dotfiles): Arch BTW
-- [Homelab] Setting up my Proxmox, K3s cluster for HA, config files soon to come
+- [Homelab](https://github.com/jonahgcarpenter/homelab-oswald): Setting up my Proxmox, K3s cluster for HA, config files soon to come
 - [April's Lil Pugs](https://github.com/jonahgcarpenter/aprilslilpugs): Mom's website
 
 ## GitHub Stats
