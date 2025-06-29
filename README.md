@@ -26,5 +26,5 @@
 ---
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jonahgcarpenter&layout=compact&theme=radical&hide=HTML,CSS" alt="Top Languages"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jonahgcarpenter&layout=compact&theme=radical&hide=HTML,CSS,R" alt="Top Languages"/>
 </p>
