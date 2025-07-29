@@ -19,8 +19,8 @@
 
 <h3 align="left">Projects</h3>
 
--   [**Dotfiles**](https://github.com/jonahgcarpenter/dotfiles): Arch Dotfiles
 -   [**Homelab**](https://github.com/jonahgcarpenter/homelab-oswald): K3s Manifest
+-   [**Joney-Bot**](https://github.com/jonahgcarpenter/joney-bot): An AI discord chatbot using a local Ollama server
 -   [**April's Lil Pugs**](https://github.com/jonahgcarpenter/aprilslilpugs): A website built for my mom's business
 
 ---
