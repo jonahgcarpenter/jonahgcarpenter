@@ -19,7 +19,7 @@
 
 <h3 align="left">Projects</h3>
 
--   [**Homelab**](https://github.com/jonahgcarpenter/homelab-oswald): K3s Manifest
+-   [**Homelab**](https://github.com/jonahgcarpenter/homelab-oswald): Kubernetes at home, simply because I can
 -   [**Joney-Bot**](https://github.com/jonahgcarpenter/joney-bot): An AI discord chatbot using a local Ollama server
 -   [**April's Lil Pugs**](https://github.com/jonahgcarpenter/aprilslilpugs): A website built for my mom's side business
 
