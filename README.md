@@ -3,6 +3,7 @@
 <p align="left">
   <a href="https://www.linkedin.com/in/jonah-carpenter-aa2644264/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
   <a href="https://github.com/jcarpenter-uam"><img src="https://img.shields.io/badge/Work_GitHub-333?style=for-the-badge&logo=github&logoColor=white" alt="Work GitHub"/></a>
+  <img alt="Profile Views" src="https://komarev.com/ghpvc/?username=jonahgcarpenter&style=for-the-badge"/>
 </p>
 
 ---
