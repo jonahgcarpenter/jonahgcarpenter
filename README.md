@@ -30,7 +30,7 @@ I specialize in using cloud-native tools to build platforms that make shipping h
 
 # Personal Projects
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jonahgcarpenter&repo=homelab-oswald&theme=tokyonight)](https://github.com/jonahgcarpenter/homelab-oswald)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jonahgcarpenter&repo=oswald-homelab&theme=tokyonight)](https://github.com/jonahgcarpenter/oswald-homelab)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jonahgcarpenter&repo=joney-bot&theme=tokyonight)](https://github.com/jonahgcarpenter/joney-bot)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jonahgcarpenter&repo=aprilslilpugs&theme=tokyonight)](https://github.com/jonahgcarpenter/aprilslilpugs)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jonahgcarpenter&repo=homelab-jarvis&theme=tokyonight)](https://github.com/jonahgcarpenter/homelab-jarvis)
