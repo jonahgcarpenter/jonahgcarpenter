@@ -11,7 +11,7 @@ On Prem > Cloud
 
 CLI > GUI
 
-AI only has specific use cases
+AI types, but you problem solve
 
 JavaScript does not belong on the backend
 
