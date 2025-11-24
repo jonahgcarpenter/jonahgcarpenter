@@ -39,7 +39,6 @@ Thank you for joining my TedTalk...
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jonahgcarpenter&repo=oswald-homelab&theme=tokyonight)](https://github.com/jonahgcarpenter/oswald-homelab)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jonahgcarpenter&repo=oswald-ai&theme=tokyonight)](https://github.com/jonahgcarpenter/oswald-ai)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jonahgcarpenter&repo=aprilslilpugs&theme=tokyonight)](https://github.com/jonahgcarpenter/aprilslilpugs)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jonahgcarpenter&repo=homelab-jarvis&theme=tokyonight)](https://github.com/jonahgcarpenter/homelab-jarvis)
 
 # Stats
 
