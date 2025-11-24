@@ -7,9 +7,15 @@
 </p>
 
 <p align="left">
-Software and DevOps Engineer passionate about the entire application lifecycle, from writing code to deploying it on scalable, automated infrastructure. My love for DevOps grew from a simple need: to create a better way to deploy and manage the applications I build to my homelab.
+On Prem > Cloud
 
-I specialize in using cloud-native tools to build platforms that make shipping high-quality software a seamless process. This means I'm just as comfortable developing fullstack applications as I am defining their infrastructure and crafting the pipelines to bring them to life. My homelab is my personal cloud, where I put these principles into practice to easily manage and monitor my own software projects.
+CLI > GUI
+
+AI only has specific use cases
+
+JavaScript does not belong on the backend
+
+Thank you for joining my TedTalk...
 </p>
 
 ---
