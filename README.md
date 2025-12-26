@@ -35,14 +35,20 @@ Thank you for joining my TedTalk...
 
 # Personal Projects
 
-### [oswald-homelab](https://github.com/jonahgcarpenter/oswald-homelab) ![Top Lang](https://img.shields.io/github/languages/top/jonahgcarpenter/oswald-homelab) ![Commits](https://img.shields.io/github/commit-activity/m/jonahgcarpenter/oswald-homelab?label=Commit%20Activity)
+## [oswald-homelab](https://github.com/jonahgcarpenter/oswald-homelab)
 > My self-hosted infrastructure and Talos Kubernetes cluster.
+>
+> ![Top Lang](https://img.shields.io/github/languages/top/jonahgcarpenter/oswald-homelab) ![Commits](https://img.shields.io/github/commit-activity/m/jonahgcarpenter/oswald-homelab?label=Commit%20Activity)
 
-### [oswald-ai](https://github.com/jonahgcarpenter/oswald-ai) ![Top Lang](https://img.shields.io/github/languages/top/jonahgcarpenter/oswald-ai) ![Commits](https://img.shields.io/github/commit-activity/m/jonahgcarpenter/oswald-ai?label=Commit%20Activity)
+## [oswald-ai](https://github.com/jonahgcarpenter/oswald-ai)
 > A personal AI assistant capable of RAG and memory management.
+>
+> ![Top Lang](https://img.shields.io/github/languages/top/jonahgcarpenter/oswald-ai) ![Commits](https://img.shields.io/github/commit-activity/m/jonahgcarpenter/oswald-ai?label=Commit%20Activity)
 
-### [aprilslilpugs](https://github.com/jonahgcarpenter/aprilslilpugs) ![Top Lang](https://img.shields.io/github/languages/top/jonahgcarpenter/aprilslilpugs) ![Commits](https://img.shields.io/github/commit-activity/m/jonahgcarpenter/aprilslilpugs?label=Commit%20Activity)
+## [aprilslilpugs](https://github.com/jonahgcarpenter/aprilslilpugs)
 > Modern website built for a local business.
+>
+> ![Top Lang](https://img.shields.io/github/languages/top/jonahgcarpenter/aprilslilpugs) ![Commits](https://img.shields.io/github/commit-activity/m/jonahgcarpenter/aprilslilpugs?label=Commit%20Activity) [![Website](https://img.shields.io/badge/Website-Visit_Site-2ea44f?logo=google-chrome&logoColor=white)](https://www.aprilslilpugs.com)
 
 # Stats
 ![Profile Views](https://visitor-badge.laobi.icu/badge?page_id=jonahgcarpenter.jonahgcarpenter)
