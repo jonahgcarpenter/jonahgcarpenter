@@ -3,7 +3,6 @@
 <p align="left">
   <a href="https://www.linkedin.com/in/jonah-g-carpenter"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
   <a href="https://github.com/jcarpenter-uam"><img src="https://img.shields.io/badge/Work_GitHub-333?style=for-the-badge&logo=github&logoColor=white" alt="Work GitHub"/></a>
-  <img alt="Profile Views" src="https://komarev.com/ghpvc/?username=jonahgcarpenter&style=for-the-badge"/>
 </p>
 
 <p align="left">
@@ -36,11 +35,15 @@ Thank you for joining my TedTalk...
 
 # Personal Projects
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jonahgcarpenter&repo=oswald-homelab&theme=tokyonight)](https://github.com/jonahgcarpenter/oswald-homelab)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jonahgcarpenter&repo=oswald-ai&theme=tokyonight)](https://github.com/jonahgcarpenter/oswald-ai)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jonahgcarpenter&repo=aprilslilpugs&theme=tokyonight)](https://github.com/jonahgcarpenter/aprilslilpugs)
+### [oswald-homelab](https://github.com/jonahgcarpenter/oswald-homelab) ![Top Lang](https://img.shields.io/github/languages/top/jonahgcarpenter/oswald-homelab) ![Commits](https://img.shields.io/github/commit-activity/m/jonahgcarpenter/oswald-homelab?label=Commit%20Activity)
+> My self-hosted infrastructure and Talos Kubernetes cluster.
+
+### [oswald-ai](https://github.com/jonahgcarpenter/oswald-ai) ![Top Lang](https://img.shields.io/github/languages/top/jonahgcarpenter/oswald-ai) ![Commits](https://img.shields.io/github/commit-activity/m/jonahgcarpenter/oswald-ai?label=Commit%20Activity)
+> A personal AI assistant capable of RAG and memory management.
+
+### [aprilslilpugs](https://github.com/jonahgcarpenter/aprilslilpugs) ![Top Lang](https://img.shields.io/github/languages/top/jonahgcarpenter/aprilslilpugs) ![Commits](https://img.shields.io/github/commit-activity/m/jonahgcarpenter/aprilslilpugs?label=Commit%20Activity)
+> Modern website built for a local business.
 
 # Stats
-
-[![jonahgcarpenter's Stats](https://github-readme-stats.vercel.app/api?username=jonahgcarpenter&theme=tokyonight&show_icons=true&hide_border=true&count_private=true)](https://github.com/jonahgcarpenter)
-[![jonahgcarpenter's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jonahgcarpenter&theme=tokyonight&show_icons=true&hide_border=true&layout=compact&hide=HTML,CSS)](https://github.com/jonahgcarpenter)
+![Profile Views](https://visitor-badge.laobi.icu/badge?page_id=jonahgcarpenter.jonahgcarpenter)
+![Followers](https://img.shields.io/github/followers/jonahgcarpenter?style=social)
