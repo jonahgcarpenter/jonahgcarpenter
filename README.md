@@ -10,7 +10,7 @@ On Prem > Cloud
 
 CLI > GUI
 
-AI types, but you problem solve
+AI is a tool, not a solution
 
 JavaScript does not belong on the backend
 
