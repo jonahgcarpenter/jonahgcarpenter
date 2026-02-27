@@ -45,6 +45,11 @@ Thank you for joining my TedTalk...
 >
 > ![Top Lang](https://img.shields.io/github/languages/top/jonahgcarpenter/oswald-ai) ![Commits](https://img.shields.io/github/commit-activity/m/jonahgcarpenter/oswald-ai?label=Commit%20Activity)
 
+## [hermes](https://github.com/jonahgcarpenter/hermes)
+> Discord's more private and secure alternative
+>
+> ![Top Lang](https://img.shields.io/github/languages/top/jonahgcarpenter/hermes) ![Commits](https://img.shields.io/github/commit-activity/m/jonahgcarpenter/hermes?label=Commit%20Activity)
+
 ## [aprilslilpugs](https://github.com/jonahgcarpenter/aprilslilpugs)
 > Modern website built for a local business
 >
