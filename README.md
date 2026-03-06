@@ -14,6 +14,8 @@ AI is a tool, not a solution
 
 JavaScript does not belong on the backend
 
+Frontend sucks, vibe code it
+
 Thank you for joining my TedTalk...
 </p>
 
