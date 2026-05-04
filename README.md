@@ -40,7 +40,7 @@ Thank you for joining my TedTalk...
 > ![Top Lang](https://img.shields.io/github/languages/top/jonahgcarpenter/oswald-homelab) ![Commits](https://img.shields.io/github/commit-activity/m/jonahgcarpenter/oswald-homelab?label=Commit%20Activity)
 
 ## [oswald-ai](https://github.com/jonahgcarpenter/oswald-ai)
-> A personal uncensored AI agent
+> A personal, uncensored AI agent built for Discord and iMessage
 >
 > ![Top Lang](https://img.shields.io/github/languages/top/jonahgcarpenter/oswald-ai) ![Commits](https://img.shields.io/github/commit-activity/m/jonahgcarpenter/oswald-ai?label=Commit%20Activity)
 
