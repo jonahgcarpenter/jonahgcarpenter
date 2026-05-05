@@ -35,7 +35,7 @@ Thank you for joining my TedTalk...
 # Personal Projects
 
 ## [oswald-homelab](https://github.com/jonahgcarpenter/oswald-homelab)
-> My self-hosted infrastructure and Talos Kubernetes cluster
+> AWS at home (without DNS issues)
 >
 > ![Top Lang](https://img.shields.io/github/languages/top/jonahgcarpenter/oswald-homelab) ![Commits](https://img.shields.io/github/commit-activity/m/jonahgcarpenter/oswald-homelab?label=Commit%20Activity)
 
