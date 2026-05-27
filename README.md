@@ -1,10 +1,6 @@
 <h1 align="left">Howdy, I'm Jonah</h1>
 
 <p align="left">
-  <a href="https://github.com/jcarpenter-uam"><img src="https://img.shields.io/badge/Work_GitHub-333?style=for-the-badge&logo=github&logoColor=white" alt="Work GitHub"/></a>
-</p>
-
-<p align="left">
 On Prem > Cloud
 
 CLI > GUI
