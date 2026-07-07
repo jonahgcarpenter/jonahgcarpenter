@@ -1,20 +1,6 @@
 <h1 align="left">Howdy, I'm Jonah</h1>
 
-<p align="left">
-On Prem > Cloud
-
-TUI > CLI > GUI
-
-AI is a tool, not a solution
-
-JavaScript does not belong on the backend
-
-Frontend sucks, vibe code it
-
-OWN YOUR DATA!
-
-Thank you for joining my TedTalk...
-</p>
+# **OWN YOUR DATA!**
 
 ---
 
