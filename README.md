@@ -1,5 +1,3 @@
-<h1 align="left">Howdy, I'm Jonah</h1>
-
 # **OWN YOUR DATA!**
 
 ---
