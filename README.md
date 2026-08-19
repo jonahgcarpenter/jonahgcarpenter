@@ -27,7 +27,7 @@
 > ![Top Lang](https://img.shields.io/github/languages/top/jonahgcarpenter/oswald-ai) ![Commits](https://img.shields.io/github/commit-activity/m/jonahgcarpenter/oswald-ai?label=Commit%20Activity)
 
 ## [nestledger](https://github.com/jonahgcarpenter/nestledger)
-> Personal spending analyzer and IRA management
+> A private, self-hosted finance dashboard for IRA planning and credit card spending analysis, with local PDF extraction and customizable categorization.
 >
 > ![Top Lang](https://img.shields.io/github/languages/top/jonahgcarpenter/nestledger) ![Commits](https://img.shields.io/github/commit-activity/m/jonahgcarpenter/nestledger?label=Commit%20Activity)
 
