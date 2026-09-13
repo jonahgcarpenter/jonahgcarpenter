@@ -1,7 +1,5 @@
 # **OWN YOUR DATA!**
 
----
-
 <p align="left">
   <img src="https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white" alt="Arch Linux"/>
   <img src="https://img.shields.io/badge/Proxmox-E57000?style=for-the-badge&logo=proxmox&logoColor=white" alt="Proxmox"/>
@@ -11,10 +9,6 @@
   <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white" alt="Bash"/>
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
-
----
-
-# Personal Projects
 
 ## [oswald-homelab](https://github.com/jonahgcarpenter/oswald-homelab)
 > ![Description](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Frepos%2Fjonahgcarpenter%2Foswald-homelab&query=%24.description&label=&style=flat&color=313244)
@@ -35,7 +29,3 @@
 > ![Description](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Frepos%2Fjonahgcarpenter%2Faprilslilpugs&query=%24.description&label=&style=flat&color=313244)
 >
 > ![Top Lang](https://img.shields.io/github/languages/top/jonahgcarpenter/aprilslilpugs) ![Commits](https://img.shields.io/github/commit-activity/m/jonahgcarpenter/aprilslilpugs?label=Commit%20Activity) [![Website](https://img.shields.io/badge/Website-Visit_Site-2ea44f?logo=google-chrome&logoColor=white)](https://www.aprilslilpugs.com)
-
-# Stats
-![Profile Views](https://visitor-badge.laobi.icu/badge?page_id=jonahgcarpenter.jonahgcarpenter)
-![Followers](https://img.shields.io/github/followers/jonahgcarpenter?style=social)
