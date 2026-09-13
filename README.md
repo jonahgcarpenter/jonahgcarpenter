@@ -17,22 +17,22 @@
 # Personal Projects
 
 ## [oswald-homelab](https://github.com/jonahgcarpenter/oswald-homelab)
-> AWS at home (without DNS issues)
+> ![Description](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Frepos%2Fjonahgcarpenter%2Foswald-homelab&query=%24.description&label=&style=flat&color=313244)
 >
 > ![Top Lang](https://img.shields.io/github/languages/top/jonahgcarpenter/oswald-homelab) ![Commits](https://img.shields.io/github/commit-activity/m/jonahgcarpenter/oswald-homelab?label=Commit%20Activity)
 
 ## [oswald-ai](https://github.com/jonahgcarpenter/oswald-ai)
-> A multi-user, fully local, uncensored AI agent harness built for Discord, iMessage and Home Assistant
+> ![Description](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Frepos%2Fjonahgcarpenter%2Foswald-ai&query=%24.description&label=&style=flat&color=313244)
 >
 > ![Top Lang](https://img.shields.io/github/languages/top/jonahgcarpenter/oswald-ai) ![Commits](https://img.shields.io/github/commit-activity/m/jonahgcarpenter/oswald-ai?label=Commit%20Activity)
 
 ## [nestledger](https://github.com/jonahgcarpenter/nestledger)
-> A private, self-hosted finance dashboard for IRA planning and credit card spending analysis, with local PDF extraction and customizable categorization.
+> ![Description](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Frepos%2Fjonahgcarpenter%2Fnestledger&query=%24.description&label=&style=flat&color=313244)
 >
 > ![Top Lang](https://img.shields.io/github/languages/top/jonahgcarpenter/nestledger) ![Commits](https://img.shields.io/github/commit-activity/m/jonahgcarpenter/nestledger?label=Commit%20Activity)
 
 ## [aprilslilpugs](https://github.com/jonahgcarpenter/aprilslilpugs)
-> Modern website built for a local business
+> ![Description](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Frepos%2Fjonahgcarpenter%2Faprilslilpugs&query=%24.description&label=&style=flat&color=313244)
 >
 > ![Top Lang](https://img.shields.io/github/languages/top/jonahgcarpenter/aprilslilpugs) ![Commits](https://img.shields.io/github/commit-activity/m/jonahgcarpenter/aprilslilpugs?label=Commit%20Activity) [![Website](https://img.shields.io/badge/Website-Visit_Site-2ea44f?logo=google-chrome&logoColor=white)](https://www.aprilslilpugs.com)
 
